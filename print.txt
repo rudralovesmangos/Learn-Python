@@ -1,0 +1,26 @@
+print() is a function to print something 
+examples:
+  print("Hello") print is the function, () is to call the function and the quotes "" mean its a string, string is a thing for text, if you put something inside it becomes a string,
+    values that you can use:
+    numbers: there are 2 types of numbers, 1st one is integer, integer is a full/whole number like 1, 2, 3, etc, and float is a number with decimals, example: 0.5, 1.5, 1.1, etc,
+    strings: there are some types of strings, first is double quotes "" then there is single quotes '' then there is triple quotes if your string has new lines 
+      """
+      example
+      hello
+      """,
+      boolean values: boolean values are basically kind of like Yes or No, True means Yes/True False means Yes/No
+      empty value: a value thats basically nothing is None, you can use it to create empty variables, we will talk about variables in the next file,
+      and then math stuff like:
+      +
+      -
+      *
+      +=
+      examples:
+      
+      
+  print(5 + 5)
+  print(False)
+  print(True)
+  print(500)
+  hi = "Hello"
+  print(hi)
