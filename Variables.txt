@@ -1,0 +1,44 @@
+variables in python are to assign something a value,
+like a reference like you can assign "Hi" string value to message,
+let me explain:
+
+lets say you want number to reference or mean 5
+
+you will type
+
+
+number = 5
+and then you can use that in anywhere, examples:
+print(number)
+print(number + number) or maybe +=
+and now f strings, f strings is a thing to like put normal string and a variable together, let me explain:
+lets say you want to print "5 + 5 is 10!" and the 10 is in a variable called ten
+you type this:
+number = 5
+ten = 10
+print(f"{number} Plus {number} is {ten}!"
+let me break it down
+print is the function to print 
+() is to call the function 
+f is to use f string
+and then the {} is to like put a variable value in here, if you like try to run the code you will understand if you didnt,
+and if you want to just print a variable value nothing  else you can just type it like this:
+print(the variable name here)
+
+
+you can assign variables these values:
+Boolean values:
+True
+False
+numbers:
+float, a decimal number, example: 0.1
+integer, a full number, example: 1
+Strings:
+"""
+"""
+""
+
+''
+you can also change variable values by just typing the variable name then the = sign then the new value
+
+and the = sign is to assign a value
